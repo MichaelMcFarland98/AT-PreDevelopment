@@ -2,7 +2,8 @@
 # Overview
 
 For the last two weeks of September 2021, I worked on my first Unity Project.
-I have come up with a working first person shooter (FPS) game. 
+I have come up with a working first person shooter (FPS) game. I am trying to stretch my skills 
+as I work to become a software developer. 
 
 [Software Demo Video](https://youtu.be/Cf1_sr0tE_g)
 
@@ -18,6 +19,13 @@ Unity uses C# language. To learn C# and how it works with Unity follow the links
 * [Unity Asset Store](https://assetstore.unity.com/)
 * [Learning How to Use Unity](https://www.youtube.com/watch?v=mzWM5M5qieM)
 * [Understanding C#](https://unity.com/how-to/learning-c-sharp-unity-beginners)
+
+# Future Work
+
+* Add in enemies
+* Add in enemy moves 
+* Add more sound for weapon fire and reload
+* Add in background noise
 
 # Author(s)
 Michael McFarland - michaelmcfarland1998@gmail.com
